@@ -1,3 +1,3 @@
 # MachineL
 
-Contains most of my practice work on Machine Learning
+Promising it to update daily with daily practices
